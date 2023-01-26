@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  font-family: 'Sora', sans-serif;
+}
