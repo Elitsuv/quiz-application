@@ -6,12 +6,12 @@ const quiz = [
     },
   {
     question: "What is the largest planet in our solar system?",
-    choices: ["Earth", "Jupiter", "Mars", "Saturn"],
+    choices: ["Earth", "Jupiter", "BN6111", "Sun"],
     correctAnswer: 1
     },
   {
     question: "Which of the following is not a programming language?",
-    choices: ["Java", "Python", "Word", "C++"],
+    choices: ["Java", "Python", "HTML5", "C++"],
     correctAnswer: 2
     }
 ];
